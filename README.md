@@ -4,7 +4,7 @@
 
 🎓 **Senior @ San Diego State University** | Computer Science
 
-I'm a developer with a passion for **cybersecurity** and **full-stack development**. When I'm not coding, you'll find me playing guitar 🎸
+I'm a developer with a passion for **cybersecurity** and **full-stack development**. 
 
 ## 🛠️ Tech Stack
 
