@@ -1,16 +1,35 @@
-## Hi there 👋
+## About Me 👋
 
-<!--
-**Tplott/Tplott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Trevor 👋
 
-Here are some ideas to get you started:
+🎓 **Senior @ San Diego State University** | Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer with a passion for **cybersecurity** and **full-stack development**. When I'm not coding, you'll find me playing guitar 🎸
+
+## 🛠️ Tech Stack
+
+**Languages:**
+- Python
+- C++
+- JavaScript
+
+**Technologies & Tools:**
+- Node.js
+- Linux
+- Network Security Tools
+
+## 🔐 What I'm Into
+
+- **Cybersecurity:** Network security, vulnerability analysis, and ethical hacking
+- **Full-Stack Development:** Building applications from the ground up
+
+## 🎸 Beyond the Code
+
+Music is my creative outlet, I am a musician and guitar player of 7+ years, ask me about it!
+
+## 📫 Let's Connect
+
+Always interested in collaborating on projects related to security, development, or anything tech!
+
+---
+
