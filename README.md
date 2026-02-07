@@ -16,7 +16,6 @@ I'm a developer with a passion for **cybersecurity** and **full-stack developmen
 **Technologies & Tools:**
 - Node.js
 - Linux
-- Network Security Tools
 
 ## 🔐 What I'm Into
 
